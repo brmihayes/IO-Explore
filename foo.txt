@@ -1,0 +1,3 @@
+Sales Order Number,Internal ID,Item,Location,Quantity,SOId
+SLS9612459133,1745,Bourbon Cedar Bar Soap,2Training,1,68641
+SLS9612459133,1777,Pine Tar Bar Soap,2Training,1,68641
